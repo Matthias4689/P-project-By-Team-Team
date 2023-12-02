@@ -63,7 +63,7 @@
 
 - Algunas operaciones pueden tener problemas si se ingresan datos incorrectos o si se intenta realizar una acción inválida. Se recomienda seguir las instrucciones y restricciones proporcionadas en las funciones para evitar problemas. Aún estamos investigando algunas posibles soluciones.
 - Se decidió cambiar la clave utilizada en el árbol de tareas, pasando de la prioridad a utilizar el ID asignado. Esta decisión surgió debido a la limitación de diferenciar entre tareas dentro del mismo nivel de prioridad, dado el uso de una escala restringida (1=alta, 2=media, 3=baja). En situaciones donde existen numerosas tareas en un mismo nivel de prioridad, la efectividad en su ordenamiento se ve comprometida. Sin embargo, este cambio conllevó a la pérdida del propósito inicial de emplear un árbol para almacenar las tareas, resultando en una carencia del ordenamiento originalmente buscado.
--
+- Funcion importarDesdeCSV no funciona correctamente. Aún estamos investigando la posible causa.
 
 ### A mejorar:
 
