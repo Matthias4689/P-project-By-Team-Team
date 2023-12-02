@@ -74,6 +74,7 @@
 - Poder editar tareas existentes.
 - Agregar una opcion de volver o cancelar la opcion seleccionada en el menu.
 - Que a mayor prioridad, mayor sea la cantidad de integrantes que se necesiten asignar.
+- Agregar una opcion que muestre las tareas segun su prioridad o progreso.
 
 
 ## Contribuciones
@@ -91,7 +92,6 @@
     - mostrarTareasSinAsignar
     - mostrarTareasAsignadas
     - obtenerNombreIntegrante
-    - obtenerFechaActual
     - limpiarConsola
     - dibujo
 - Diseño inicial de la interfaz de usuario.
@@ -105,7 +105,7 @@
     - eliminarTarea
     - agregarPrioridad
     - importarDesdeCSV
-    - mostrarTareasXPrioridad
+    - obtenerFechaActual
 - Documentación y depuración del código.
 - **Auto-evaluación**: 3 (Aporte excelente).
 
