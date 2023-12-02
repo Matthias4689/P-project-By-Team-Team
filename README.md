@@ -53,6 +53,7 @@
 - asignarIntegrante
 - verProgreso
 - actualizarProgreso
+- exportarA_CSV
 - mostrarTareasSinAsignar
 - mostrarTareasAsignadas
 - limpiarConsola
@@ -103,7 +104,7 @@
     - crearTarea
     - eliminarTarea
     - agregarPrioridad
-    - exportarA_CSV
+    - importarDesdeCSV
     - mostrarTareasXPrioridad
 - Documentación y depuración del código.
 - **Auto-evaluación**: 3 (Aporte excelente).
@@ -115,7 +116,7 @@
     - eliminarIntegrante
     - mostrarEquipo
     - consultarID_Integrante_tarea
-    - importarDesdeCSV
+    - exportarA_CSV
 - Documentación y depuración del código. 
 - Diseño y redacción del README.
 - **Auto-evaluación**: 3 (Aporte excelente).
